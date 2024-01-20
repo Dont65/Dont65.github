@@ -1,2 +1,2 @@
-# Dont65.github
-ДА ДА
+# Admin Dont65
+Dont65 - куратор
